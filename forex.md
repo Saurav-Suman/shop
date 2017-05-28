@@ -4,9 +4,9 @@
 ![alt text](./process.png)
 
 *I am using AEROSPIKE here because-
-High Availability & Uptime
-Superior Scalability
-Real-Time Engine and many more.
+1.High Availability & Uptime
+2.Superior Scalability
+3.Real-Time Engine and many more.
 
 *Excahnge Service Provider May Be Any one.
 
